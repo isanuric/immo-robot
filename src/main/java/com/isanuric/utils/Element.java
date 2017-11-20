@@ -11,4 +11,9 @@ public interface Element {
     public static final String LOGIN_BUTTON = "//*[@id=\"registration.submit\"]";
     public static final String SAVEDSEARCH  = "//*[@id=\"savedsearch-myscout-manage\"]/span[1]";
 
+    // gmail
+    public static final String IDENTIFIER_NEXT = "//*[@id=\"identifierNext\"]/content/span";
+    public static final String PASSWORD_INPUT  = "//*[@id=\"password\"]/div[1]/div/div[1]/input";
+    public static final String PASSWORD_NEXT   = "//*[@id=\"passwordNext\"]/content/span";
+
 }
