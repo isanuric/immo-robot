@@ -1,12 +1,6 @@
 package com.isanuric.utils;
 
-/**
- * ----------------------------------------------
- * (c)2017 Copyright iC Consult GmbH
- * <p/>
- * Project: my-app
- * Created by Ehsan on 20/11/2017.
- */
+
 public interface Element {
     public static final String LOGIN        = "//*[@id=\"link_loginAccountLink\"]/span[1]/span[1]/span";
     public static final String SELECT_LOGIN = "//*[@id=\"link_loginLinkInternal\"]";

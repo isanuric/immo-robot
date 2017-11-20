@@ -4,13 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-/**
- * ----------------------------------------------
- * (c)2017 Copyright iC Consult GmbH
- * <p/>
- * Project: immu
- * Created by Ehsan on 19/11/2017.
- */
+
 public class PageHelper {
 
     String baseUrl;

@@ -4,13 +4,7 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-/**
- * ----------------------------------------------
- * (c)2017 Copyright iC Consult GmbH
- * <p/>
- * Project: immu
- * Created by Ehsan on 19/11/2017.
- */
+
 public class PageHelper {
 
     String baseUrl;

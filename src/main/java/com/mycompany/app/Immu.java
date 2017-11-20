@@ -9,13 +9,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-/**
- * ----------------------------------------------
- * (c)2017 Copyright iC Consult GmbH
- * <p/>
- * Project: immu
- * Created by Ehsan on 19/11/2017.
- */
+
 public class Immu {
 
     //    private static final String PASSWORD = Configuration.getProperty("myPassword");

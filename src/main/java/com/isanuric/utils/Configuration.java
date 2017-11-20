@@ -5,13 +5,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
-/**
- * ----------------------------------------------
- * (c)2017 Copyright iC Consult GmbH
- * <p/>
- * Project: my-app
- * Created by Ehsan on 20/11/2017.
- */
+
 public class Configuration {
 
 
